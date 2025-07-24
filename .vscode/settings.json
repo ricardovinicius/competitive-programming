@@ -8,6 +8,17 @@
         "vector": "cpp",
         "bitset": "cpp",
         "string_view": "cpp",
-        "stacktrace": "cpp"
+        "stacktrace": "cpp",
+        "array": "cpp",
+        "forward_list": "cpp",
+        "list": "cpp",
+        "unordered_map": "cpp",
+        "unordered_set": "cpp",
+        "format": "cpp",
+        "initializer_list": "cpp",
+        "ranges": "cpp",
+        "span": "cpp",
+        "regex": "cpp",
+        "valarray": "cpp"
     }
 }
